@@ -1,6 +1,6 @@
 var ___ga_uaid = "";
 
-var updateDisabled = false;
+var updateDisabled = true;
 
 function trackPageView(e, E) {
     console.log('trackPageView:\ne='+e+'\nE='+E);
